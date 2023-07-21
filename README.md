@@ -10,12 +10,7 @@ Event Listeners TODO Form is a simple project that allows users to create and ma
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-  - [Demo](#demo)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [How It Works](#how-it-works)
-  - [Contributing](#contributing)
-  - [License](#license)
+   - [License](#license)
 
 ## Features
 - **Remove Done Tasks:** Tasks that are marked as done can be removed from the list with a simple click of the "Remove" button.
@@ -23,5 +18,5 @@ Event Listeners TODO Form is a simple project that allows users to create and ma
 - **Event Listeners:** The project demonstrates the use of event listeners in JavaScript, ensuring smooth handling of user interactions.
 
 
-## Licences
+## Licence
 None
